@@ -26,7 +26,7 @@ new Med("Metoclopramida 10 mg", 1, "caja", "Medicación habitual"),
 new Med("Midazolam 7,5 mg", 1, "caja", "Medicación habitual"),
 new Med("Mirtazapina 15 mg", 1, "caja", "Medicación habitual"),
 new Med("Naltrexona 50 mg", 1, "caja", "Medicación habitual"),
-new Med("Naproxeno 550 mg", 3, "cajas", "Medicación habitual")
+new Med("Naproxeno 550 mg", 3, "cajas", "Medicación habitual"),
 new Med("Olanzapina 2,5 mg", 1, "caja", "Medicación habitual"),
 new Med("Olanzapina 5 mg", 2, "cajas", "Medicación habitual"),
 new Med("Omeprazol 20 mg", 2, "cajas", "Medicación habitual"),
